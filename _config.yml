@@ -1,0 +1,28 @@
+name: schreibwerkstatt
+favicon: null
+layout_spectrum: 0.8288527631666511
+typography_spectrum: 0.6983372757676989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8835339869838208
+  lightness: 0.9322368188295513
+  saturation: 0.9896209568250924
+  rhythmicContrast: 0.3808784633874893
+purpose: []
