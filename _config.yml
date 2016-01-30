@@ -1,28 +1,40 @@
-name: schreibwerkstatt
-favicon: null
 layout_spectrum: 0.8288527631666511
-typography_spectrum: 0.6983372757676989
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8835339869838208
-  lightness: 0.9322368188295513
-  saturation: 0.9896209568250924
-  rhythmicContrast: 0.3808784633874893
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9896209568250924
+  brandStrength: 1
+  lightness: 0.9322368188295513
+  brandColors:
+    - '#FFFFFF'
+    - '#313E60'
+    - '#FFC8B7'
+    - '#010001'
+    - '#55889B'
+  rhythmicContrast: 0.3808784633874893
+typography_spectrum: 0.6983372757676989
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: schreibwerkstatt
