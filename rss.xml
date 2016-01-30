@@ -4,8 +4,15 @@
         <description><![CDATA[schreibwerkstatt]]></description>
         <link>https://thegrid.ai/schreibwerkstatt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 21:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 21:15:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/schreibwerkstatt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title]]></title>
+            <description><![CDATA[<article><h1>Title</h1><p>Type your text here.</p></article>]]></description>
+            <link>https://thegrid.ai/schreibwerkstatt/title/index.html</link>
+            <guid isPermaLink="false">72e441a6-c044-4d60-ba07-6cc0f4f41ab0</guid>
+            <pubDate>Sat, 30 Jan 2016 21:15:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7705d06e-70bc-4af0-b5d0-033461d68e46.jpg">]]></description>
