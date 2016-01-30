@@ -1,4 +1,7 @@
-layout_spectrum: 0.8288527631666511
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#010001'
     - '#55889B'
   rhythmicContrast: 0.3808784633874893
-typography_spectrum: 0.6983372757676989
+typography_spectrum: 0.1146953
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.734767
 favicon: null
 name: schreibwerkstatt
